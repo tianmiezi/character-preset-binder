@@ -1,0 +1,12 @@
+{
+    "display_name": "角色预设绑定器",
+    "loading_order": 20,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Zarathu",
+    "version": "1.3.0",
+    "homePage": "https://github.com/SillyTavern/SillyTavern",
+    "description": "将生成预设绑定到当前聊天或角色卡。"
+}
