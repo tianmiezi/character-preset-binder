@@ -21,7 +21,7 @@
 4. 输入本仓库地址：
 
 ```text
-https://github.com/你的用户名/character-preset-binder
+[https://github.com/你的用户名/character-preset-binder](https://github.com/tianmiezi/character-preset-binder)
 ```
 
 5. 安装后刷新 SillyTavern 页面。
