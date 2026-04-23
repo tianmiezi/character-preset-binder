@@ -6,14 +6,14 @@ import {
     main_api,
     saveSettingsDebounced,
     this_chid,
-} from '../../../script.js';
+} from '/script.js';
 import {
     extension_settings,
     getContext,
     writeExtensionField,
-} from '../../extensions.js';
-import { POPUP_RESULT, POPUP_TYPE, Popup } from '../../popup.js';
-import { getPresetManager } from '../../preset-manager.js';
+} from '/scripts/extensions.js';
+import { POPUP_RESULT, POPUP_TYPE, Popup } from '/scripts/popup.js';
+import { getPresetManager } from '/scripts/preset-manager.js';
 
 const EXTENSION_NAME = 'character-preset-binder';
 const CARD_FIELD = 'character_preset_binder';
