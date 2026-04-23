@@ -1,0 +1,2 @@
+# character-preset-binder
+一个用于SillyTavern，实现在打开某张卡或者某段对话时自动切换到绑定预设的插件
